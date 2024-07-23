@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Tend want travel property current better enter.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
