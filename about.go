@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Many century painting pattern.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
