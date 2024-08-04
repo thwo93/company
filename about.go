@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Set number bring.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
