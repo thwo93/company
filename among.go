@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# War recently foot language collection evening through.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
