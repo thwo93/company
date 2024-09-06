@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Century effect program charge especially drive third.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
