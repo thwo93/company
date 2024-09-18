@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Away local different water.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
