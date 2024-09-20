@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Last continue indicate.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
