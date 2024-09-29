@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Main race term.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
